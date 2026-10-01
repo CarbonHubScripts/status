@@ -1,0 +1,19 @@
+{
+  "changelog": {
+    "color": "#00FFFF",
+    "text": "Latest Changelog\n[Carbon Hub]\nTYPE: SUPPORT\nGAME: TPS Ultimate Soccer\n\nUpdated Delay Reducer\nImproved Delay Reducer\n\nLast Update: 24.02.2026"
+  },
+  "games": [
+    { "name": "TPS: Ultimate Soccer", "status": "Green" },
+    { "name": "Real Futbol 24", "status": "Green" },
+    { "name": "Real Futbol League", "status": "Green" },
+    { "name": "Real Futbol Fan Leagues", "status": "Green" },
+    { "name": "VEF", "status": "Green" },
+    { "name": "MPS 4-aside", "status": "Green" },
+    { "name": "Universal Reach", "status": "Green" },
+    { "name": "MPS Futsal", "status": "Green" },
+    { "name": "The Classic Soccer", "status": "Green" },
+    { "name": "Driving Empire", "status": "Green" },
+    { "name": "Real Futbol X", "status": "Green" }
+  ]
+}
